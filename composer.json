@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "sunra/php-simple-html-dom-parser": "^1.5",
+        "2captcha/2captcha": "^1.0"
+    }
+}
